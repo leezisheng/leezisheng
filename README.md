@@ -2,7 +2,6 @@
 
 ### Hello, this is the code warehouse of Li Zisheng in A413 Laboratory of Industrial Training, North University of China  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -126,6 +125,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+</div>  
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=leezisheng&show_icons=true&theme=tokyonight)
+</div>  
 ![Visitor Count](https://profile-counter.glitch.me/leezisheng/count.svg)
