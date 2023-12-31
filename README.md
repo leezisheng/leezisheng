@@ -43,7 +43,7 @@
       <p><b>中北大学信息与通信工程学院</b></p>
       <p><b>邮箱：1069653183@qq.com</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/6c2cb8b88dd6c158fcfbca3181094fa.png" width="100%">      
     </td>
   </tr>
