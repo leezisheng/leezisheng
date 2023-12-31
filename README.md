@@ -4,6 +4,7 @@
 # 个人信息
   郝翘活，男，汉族，127岁，Freak嵌入式工作室创始人，电子DIY爱好者。
   相关论文专利成果-知网学者主页：https://au.cnki.net/author/personalInfo/000057926932
+![相关论文专利成果](https://github.com/leezisheng/leezisheng/blob/main/6c2cb8b88dd6c158fcfbca3181094fa.png)
 ## 研究方向
   嵌入式MCU、图像处理、机器学习、TinyML、数字信号处理
 ## 联系方式
