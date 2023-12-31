@@ -7,8 +7,6 @@
 ![相关论文专利成果](https://github.com/leezisheng/leezisheng/blob/main/6c2cb8b88dd6c158fcfbca3181094fa.png)
 ## 研究方向
   嵌入式MCU、图像处理、机器学习、TinyML、数字信号处理
-## 联系方式
-  email-1069653183@qq.com
 ## 个人技术栈
 ### MCU软件开发
   1. 熟练掌握STM32、NXP、Ti等各系列32位、16位、8位单片机的运用，可以利用GCC、STM32CUBE IDE、MDK等软件对单片机进行基本外设操作，包括：GPIO使用，工作模式，通信速率，外部中断，ADC模数转换，定时器，dma数据传输 通信协议（IIC,IIIC,SPI,串行总线（rs485，rs232，rs422，全双工，半双工，单工，智能卡，can总线），单走线通信，usb，usb2.0，usb3.0，网络协议接口）；
@@ -35,14 +33,13 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>李清水</h1>
+      <p><b>本科生</b></p>
+      <p><b>中北大学信息与通信工程学院</b></p>
+      <p><b>邮箱：1069653183@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/6c2cb8b88dd6c158fcfbca3181094fa.png" width="100%">      % 插入证件照代码
+      <img src="/6c2cb8b88dd6c158fcfbca3181094fa.png" width="100%">      
     </td>
   </tr>
 </table>
