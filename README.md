@@ -2,7 +2,7 @@
   Freak嵌入式工作室位于中北大学工程训练中心A座413，负责工训A413实验室相关技术成果转化，以嵌入式电子套件及相关教程、成品电子模块开发、个人DIY电子作品为主要产品，致力于嵌入式教育和大学生创新创业比赛、电子计算机类比赛培训。
 ![实验室概览](https://github.com/leezisheng/leezisheng/blob/main/111.png)
 # 个人信息
-  郝翘活，男，汉族，127岁，Freak嵌入式工作室创始人，电子DIY爱好者。
+## 郝翘活，男，汉族，127岁，Freak嵌入式工作室创始人，电子DIY爱好者。
   相关论文专利成果-知网学者主页：https://au.cnki.net/author/personalInfo/000057926932
 ![相关论文专利成果](https://github.com/leezisheng/leezisheng/blob/main/6c2cb8b88dd6c158fcfbca3181094fa.png)
 ## 研究方向
