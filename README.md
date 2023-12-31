@@ -1,8 +1,9 @@
-- 🔭 I’m currently working on …
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
+### Freak嵌入式工作室介绍
+
+### 个人信息
+
+### 研究方向
+
+### 相关成果
+
+### 仓库介绍
