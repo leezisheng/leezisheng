@@ -39,8 +39,8 @@
 # 仓库介绍&相关成果
 ## ESP32开发板晋中理工培训版本
 https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1
-
-
+  开发板以ESP32 WROOM最小系统板为核心，板载5V降压稳压模块和供电指示电路、RS485通信模块、摇杆模块、OLED显示模块、气体传感器接口、DTH11温湿度传感器模块、18650电池盒、蜂鸣器驱动电路和按键及LED驱动电路组成。
+![实验室概览](https://github.com/leezisheng/leezisheng/blob/main/000.png)
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leezisheng&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leezisheng" /> </div>
