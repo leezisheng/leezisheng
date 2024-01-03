@@ -37,14 +37,14 @@
   2. 掌握最小系统的基本概念和常用的外围电路设计。能够根据最小系统要求，选择元器件，完成电路设计；
   3. 能够阅读嵌入式系统电路图，能够分析常见电路模块工作原理和参数计算。熟悉常见电路符合、标识和电路连接方法。
 # 仓库介绍&相关成果
-## ESP32开发板晋中理工培训版本
+## ESP32开发板晋中理工培训版本v1.0
 https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1
 
 开发板以ESP32 WROOM最小系统板为核心，板载5V降压稳压模块和供电指示电路、RS485通信模块、摇杆模块、OLED显示模块、气体传感器接口、DTH11温湿度传感器模块、18650电池盒、蜂鸣器驱动电路和按键及LED驱动电路组成。
 
 ![ESP32开发板晋中理工培训版本](https://github.com/leezisheng/leezisheng/blob/main/000.png)
 
-## 声源定位装置及声光融合定位算法
+## 声源定位装置及声光融合定位算法v1.0
 https://github.com/leezisheng/Sound-source-location
 
 ### 声源定位装置
@@ -59,7 +59,14 @@ https://github.com/leezisheng/Sound-source-location
 
 ![声源定位装置及声光融合定位算法](https://github.com/leezisheng/leezisheng/blob/main/001.png)
 
+## 尺寸测量装置v1.0
 
+https://github.com/leezisheng/Non_contact_object_size_measurement
+
+基于机器视觉的尺寸测量已广泛应用到工业生产的各个场合，本次电赛题目以基于机器视觉的尺寸测量技术为基础，要求对简化后的待测量模型（圆形、三角形、矩形进行识别）。
+本设计基于OpenMV机器视觉模块的无接触尺寸测量系统采用霍夫变换和颜色阈值检测的方法实现对摄像头中心点直线上待测量模型的尺寸计算，并且将测量得到的尺寸数据显示于OLED屏幕上，同时利用多项式拟合方法求得直径像素数目、物体距离和物体尺寸的关系。经测试，尺寸及距离测量误差保持在1%以下，可以满足精准性和实时性的需求。
+
+![尺寸测量装置](https://github.com/leezisheng/leezisheng/blob/main/002.png)
 
 
 
