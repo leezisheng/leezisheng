@@ -74,6 +74,18 @@ https://github.com/leezisheng/Non_contact_object_size_measurement
 
 ![身份识别和体温测量装置](https://github.com/leezisheng/leezisheng/blob/main/003.png)
 
+## CO2红外式传感器温度补偿算法v1.0
+双通道热释电红外二氧化碳传感器拟合算法程序，多项式拟合算法，使用Python编写，包括txt文件读取、数据拟合、数据预测和MSE误差计算模块。
+
+![CO2红外式传感器温度补偿算法](https://github.com/leezisheng/leezisheng/blob/main/005.png)
+
+
+
+
+
+
+
+
 
 
 
