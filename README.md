@@ -44,6 +44,32 @@ https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1
 
 ![ESP32开发板晋中理工培训版本](https://github.com/leezisheng/leezisheng/blob/main/000.png)
 
+## 声源定位装置及声光融合定位算法
+https://github.com/leezisheng/Sound-source-location
+
+### 声源定位装置
+
+以K210微控制器为核心控制单元，设计一个基于TDOA算法的声源定位系统。利用麦克风阵列采集声源信号，通过时间差到达（TDOA）算法进行信息处理，借助卡尔曼滤波优化数据变量，从而实现声源方向的高精度定位。实验结果表明，该声源定位跟踪系统在定位精度、数据处理频率和定位范围方面均表现出优异的性能，定位精度可达到10厘米以内，数据处理频率为100Hz，定位范围可覆盖方圆10米。这一研究成果为实时声源定位和跟踪领域提供了一种高效可靠的解决方案，有望在多种应用场景中发挥关键作用。
+
+### 基于声光数据融合的电力巡检机器人室内定位方法
+
+传统的巡检机器人定位方法往往是使用基于射频技术的蓝牙定位、UWB定位方法，然而在变电站的室内巡检场景中，如信息机房、配电室、主控室、高压开闭室等，由于存在工频噪声、大功率电力设备运行使得电磁干扰较大，同时电磁信号本身具有多径效应，导致基于射频技术的定位方法误差极大；而基于激光点云和计算机视觉的定位方法计算量较大，同时由于变电站室内环境复杂，导致使用基于激光点云和计算机视觉的定位方法的巡检机器人往往无法实现精确的室内定位。
+
+因此，本方法提出一种基于白光LED定位技术和声源定位相结合的方法，其中白光LED定位技术利用对搭载在电力巡检机器人车体上的光电探测器接收不同位置白光LED光强度的比值进行计算实现室内定位，这里考虑到室内光照受到遮挡的情况，使用基于到达时延差的声源定位方法作为补偿，利用BP神经网络模型实现两种方法的融合，在保证定位实时性的情况下，实现高精度的室内电力巡检机器人定位。
+
+![声源定位装置及声光融合定位算法](https://github.com/leezisheng/leezisheng/blob/main/001.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leezisheng&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leezisheng" /> </div>
