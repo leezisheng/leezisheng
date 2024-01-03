@@ -96,18 +96,87 @@ https://github.com/leezisheng/Farm-environment-monitoring-device---stand-alone-v
 
 ![猪场环境监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/007.png)
 
+## 动物行为分析系统v1.0
 
+https://github.com/leezisheng/Animal_behavior_analysis
 
+基于机器学习的计算机视觉算法，通过在实验箱顶部安装的双目摄像头采集视频数据，采用针对嵌入式处理设备优化后的YOLOv4-Tiny网络模型，同时对YOLOv4-Tiny网络结构进行改进，在量化、剪枝等步骤后部署到树莓派4B（8G）卡片式电脑上，模型大小仅为33.7MB，帧率可达12 FPS，精确率可达93.3%。
 
+可以做到：
 
+1.模型更小、帧率更快、精确率更高，便于部署到各种嵌入式处理器中；
 
+2.对小鼠行为（进食、饮水、僵直等）的准确识别；
 
+3.在目标小鼠部分遮挡情况下实现追踪；
 
+4.将树莓派边缘端采集处理后数据传回阿里云，以作进一步处理；
 
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/008.png)
 
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/009.png)
 
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/010.png)
 
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/011.png)
 
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/012.png)
+
+![动物行为分析系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/013.png)
+
+## 生猪健康监测系统v1.0
+
+https://github.com/leezisheng/pig_healthy_pytorch
+
+在这项作品中，我们侧重于通过OCSVM实现利用健康生猪的运动数据特征实现对于异常健康生猪的识别，同时该方法应当适用于不同年龄段、不同种类、生活在不同区域的生猪；并且，针对该技术在大型养猪场应用，考虑其监测成本等问题，基于云计算的视频监测系统往往存在着带宽占用大、传输延迟高等问题，因此，我们利用基于边缘计算的视频监测和深度学习技术解决这一问题。
+
+1.采用无接触式方式，利用摄像头对生猪个体运动进行追踪，相比于佩戴传感器的方式容易掉落，该方法更加稳定，对生猪影响小；
+
+2.对DeepSORT表观特征提取模型部分进行优化，轻量化表观特征提取适用于嵌入式设备；采用Yolov5s模型实现目标检测，使用Tensor-RT完成量化、剪枝工作，将模型部署到嵌入式设备运行；
+
+3.采用OCSVM模型完成无监督学习，通过健康生猪运动量数据完成异常生猪检测。
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/014.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/015.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/016.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/017.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/018.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/019.png)
+
+![生猪健康监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/020.png)
+
+## 表面肌电采集系统v1.0
+
+表面肌电采集系统上位机端v1.0
+
+https://github.com/leezisheng/SEMG_Assistant
+
+表面肌电采集系统设备端v1.0
+
+https://github.com/leezisheng/MCU_Project
+
+在设备端部分：其中姿态检测提取单元通过对MPU6050输出的四元数进行数据解算和卡尔曼滤波，将计算到的上肢角度、角速度数据通过HC-05蓝牙模块回传给主控设备端；表面肌电信号采集模块将原始肌电信号进行放大、带通滤波、工频滤波后，主控设备端通过MCU内置的ADC外设采集SEMG模块输出电压，将信号波形和部分时域特征（最大值、最小值、平均值）在串口屏上进行显示，并且通过USB协议虚拟串口，将数据回传给PC端；心电信号采集单元使用ADS1292R模拟前端芯片采集心电信号，通过R波检测实现心率计算，并且板载LMT70温度传感器实现体温监测，同时通过下肢固定的MPU6050传感器实现步态提取功能，并且将相关数据通过ESP8266模块借助TCP协议回传到PC端。
+
+在上位机部分,包括SEMG信号分析软件、心电步态信号分析软件和体能监测评估软件组成。其中SEMG信号分析软件可以完成表面肌电信号波形显示、信号频域波形显示、功率谱特征参数更新和原始信号与特征存储功能；心电步态信号分析软件可以完成心电信号波形显示、体表温度与心率显示、步数计算和距离计算功能、数据时间序列存储功能。
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/021.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/022.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/023.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/024.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/025.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/026.png)
+
+![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/027.png)
 
 
 
