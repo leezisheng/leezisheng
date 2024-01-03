@@ -75,12 +75,26 @@ https://github.com/leezisheng/Non_contact_object_size_measurement
 ![身份识别和体温测量装置](https://github.com/leezisheng/leezisheng/blob/main/003.png)
 
 ## CO2红外式传感器温度补偿算法v1.0
+
+https://github.com/leezisheng/Gas-sensor-voltage-concentration-curve-fitting
+
+https://github.com/leezisheng/NDIR_CO2
+
 双通道热释电红外二氧化碳传感器拟合算法程序，多项式拟合算法，使用Python编写，包括txt文件读取、数据拟合、数据预测和MSE误差计算模块。
 
 ![CO2红外式传感器温度补偿算法](https://github.com/leezisheng/leezisheng/blob/main/005.png)
 
+## 猪场环境监测系统v1.0
 
+https://github.com/leezisheng/Farm-environment-monitoring-device---stand-alone-version
 
+针对现有规模性生猪养殖场环境监测系统中普遍存在的监测有害气体种类单一、缺乏对环境风险的整体评估的缺点，本文设计了一种基于阿里云的养殖场多组分有害气体及温湿度监测系统，设备主机端在采集计算当前区域中多种有害气体浓度后使用轻量级物联网MQTT协议将数据回传到物联网平台端，物联网平台端进行实时数据展示、数据存储并结合综合环境评估体系对环境进行评分，经测试系统可以满足规模性生猪养殖场对于环境监测系统可靠性、实时性和稳健性的需求。
+
+![猪场环境监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/004.png)
+
+![猪场环境监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/006.png)
+
+![猪场环境监测系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/007.png)
 
 
 
