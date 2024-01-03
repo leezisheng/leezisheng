@@ -38,7 +38,7 @@
   3. 能够阅读嵌入式系统电路图，能够分析常见电路模块工作原理和参数计算。熟悉常见电路符合、标识和电路连接方法。
 # 仓库介绍&相关成果
 ## ESP32开发板晋中理工培训版本
-<https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1>
+https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1
 
 
 
