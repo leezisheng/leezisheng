@@ -178,7 +178,10 @@ https://github.com/leezisheng/MCU_Project
 
 ![表面肌电采集系统v1.0](https://github.com/leezisheng/leezisheng/blob/main/027.png)
 
+## 技术资料
+此文件夹主要包括嵌入式开发规范和相关技术书籍、资料分享。
 
+https://github.com/leezisheng/Doc
 
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leezisheng&theme=xcode" /> </div>
