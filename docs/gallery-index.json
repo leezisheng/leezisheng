@@ -1,0 +1,310 @@
+{
+  "images": [
+    {
+      "path": "assets/patents/gas-prediction.jpeg"
+    },
+    {
+      "path": "assets/patents/ultrasonic-deicing.jpeg"
+    },
+    {
+      "path": "assets/patents/animal-tracking.jpeg"
+    },
+    {
+      "path": "assets/patents/pig-health.jpeg"
+    },
+    {
+      "path": "assets/patents/audio-optical-localization.jpeg"
+    },
+    {
+      "path": "assets/patents/measurement-board.jpeg"
+    },
+    {
+      "path": "assets/patents/camera-pcb.jpeg"
+    },
+    {
+      "path": "assets/patents/tablet.jpeg"
+    },
+    {
+      "path": "assets/software/personal-01.jpeg"
+    },
+    {
+      "path": "assets/software/personal-02.jpeg"
+    },
+    {
+      "path": "assets/software/personal-03.jpeg"
+    },
+    {
+      "path": "assets/software/personal-04.jpeg"
+    },
+    {
+      "path": "assets/software/personal-05.jpeg"
+    },
+    {
+      "path": "assets/software/personal-06.jpeg"
+    },
+    {
+      "path": "assets/software/personal-07.jpeg"
+    },
+    {
+      "path": "assets/works/work-01.jpeg"
+    },
+    {
+      "path": "assets/works/work-02.jpeg"
+    },
+    {
+      "path": "assets/works/work-03.jpeg"
+    },
+    {
+      "path": "assets/works/work-04.jpeg"
+    },
+    {
+      "path": "assets/works/work-05.jpeg"
+    },
+    {
+      "path": "assets/works/work-06.jpeg"
+    },
+    {
+      "path": "assets/works/work-07.jpeg"
+    },
+    {
+      "path": "assets/works/work-08.jpeg"
+    },
+    {
+      "path": "assets/works/work-09.jpeg"
+    },
+    {
+      "path": "assets/works/work-10.jpeg"
+    },
+    {
+      "path": "assets/works/work-11.jpeg"
+    },
+    {
+      "path": "assets/works/work-12.jpeg"
+    },
+    {
+      "path": "assets/works/work-13.jpeg"
+    },
+    {
+      "path": "assets/works/work-14.jpeg"
+    },
+    {
+      "path": "assets/works/work-15.jpeg"
+    },
+    {
+      "path": "assets/works/work-16.jpeg"
+    },
+    {
+      "path": "assets/works/work-17.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-01-2020.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-02-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-03-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-04-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-05-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-06-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-07-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-08-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-09-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-10-2021.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-11-2022.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-12-2022.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-13-2023.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-14-2025.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-15-2025.jpeg"
+    },
+    {
+      "path": "assets/awards/personal-16-2026.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-01.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-02.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-03.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-04.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-05.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-06.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-07.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-08.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-09.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-10.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-11.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-12.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-13.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-14.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-15.jpeg"
+    },
+    {
+      "path": "assets/collaborative/software-16.jpeg"
+    },
+    {
+      "path": "assets/team/honor-01.jpeg"
+    },
+    {
+      "path": "assets/team/honor-02.jpeg"
+    },
+    {
+      "path": "assets/team/honor-03.jpeg"
+    },
+    {
+      "path": "assets/team/honor-04.jpeg"
+    },
+    {
+      "path": "assets/team/honor-05.jpeg"
+    },
+    {
+      "path": "assets/team/honor-06.jpeg"
+    },
+    {
+      "path": "assets/team/honor-07.jpeg"
+    },
+    {
+      "path": "assets/team/honor-08.jpeg"
+    },
+    {
+      "path": "assets/team/honor-09.jpeg"
+    },
+    {
+      "path": "assets/team/honor-10.jpeg"
+    },
+    {
+      "path": "assets/team/honor-11.jpeg"
+    },
+    {
+      "path": "assets/team/honor-12.jpeg"
+    },
+    {
+      "path": "assets/team/honor-13.jpeg"
+    },
+    {
+      "path": "assets/events/hackathon-stage.jpeg"
+    },
+    {
+      "path": "assets/events/hicool-stage.jpeg"
+    },
+    {
+      "path": "assets/events/ai-center.jpeg"
+    },
+    {
+      "path": "assets/events/ai-display.jpeg"
+    },
+    {
+      "path": "assets/events/teachers.jpeg"
+    },
+    {
+      "path": "assets/events/documentary.jpeg"
+    },
+    {
+      "path": "assets/events/maker-summit.jpeg"
+    },
+    {
+      "path": "assets/events/education-research.jpeg"
+    },
+    {
+      "path": "assets/events/open-source-showroom.jpeg"
+    },
+    {
+      "path": "assets/events/ai-hardware-build.jpeg"
+    },
+    {
+      "path": "assets/events/singapore-workshop.jpeg"
+    },
+    {
+      "path": "assets/credentials/ainx-participation.jpeg"
+    },
+    {
+      "path": "assets/credentials/jlc-lecturer.jpeg"
+    },
+    {
+      "path": "assets/credentials/maker-community.jpeg"
+    },
+    {
+      "path": "assets/partners/wiznet.jpeg"
+    },
+    {
+      "path": "assets/partners/education-partner.jpeg"
+    },
+    {
+      "path": "assets/partners/education-association.jpeg"
+    },
+    {
+      "path": "assets/papers/curtains.png"
+    },
+    {
+      "path": "assets/papers/photoacoustic.png"
+    },
+    {
+      "path": "assets/papers/farm-iot.png"
+    },
+    {
+      "path": "assets/papers/vision-review.png"
+    }
+  ],
+  "categories": {
+    "patents": 8,
+    "research_papers": 4,
+    "personal_software": 7,
+    "personal_awards": 16,
+    "work_registrations": 17,
+    "collaborative_software": 16,
+    "team_awards": 13,
+    "event_photos": 11,
+    "credentials": 3,
+    "partnership_certificates": 3
+  }
+}
