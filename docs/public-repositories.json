@@ -1,0 +1,834 @@
+{
+  "reviewed_at": "2026-11-01",
+  "scope": "Public repositories only. Default-branch author counts include merges and must not be summed across forks.",
+  "repositories": [
+    {
+      "full_name": "FreakStudioCN/BIPES",
+      "html_url": "https://github.com/FreakStudioCN/BIPES",
+      "description": "BIPES: Block based Integrated Platform for Embedded Systems allows text and block based programming for several types of embedded systems and Internet of Things modules using MicroPython, CircuitPython, Python or Snek. You can connect, program, debug and monitor several types of boards using network, USB or Bluetooth. No software install needed!",
+      "fork": true,
+      "pushed_at": "2026-03-08T06:53:39Z",
+      "language": "JavaScript",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/BIPES-offline",
+      "html_url": "https://github.com/FreakStudioCN/BIPES-offline",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-02-08T09:19:23Z",
+      "language": "JavaScript",
+      "authored_2026_default_branch": 2,
+      "latest_authored": [
+        {
+          "sha": "a50eb90d08a98dc42e9aad1f4b4d02813e2e712b",
+          "date": "2026-02-08T09:19:17Z",
+          "subject": "None"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/blockless-csp-assembler",
+      "html_url": "https://github.com/FreakStudioCN/blockless-csp-assembler",
+      "description": "AI生成PCB底板",
+      "fork": false,
+      "pushed_at": "2026-10-14T17:53:09Z",
+      "language": "TypeScript",
+      "authored_2026_default_branch": 8,
+      "latest_authored": [
+        {
+          "sha": "6c8a5d605b2ea6258c7e8a62dc3a5fb805055ddd",
+          "date": "2026-08-11T16:38:25Z",
+          "subject": "Update README.md"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/blockless-hardware-opportunity-validation",
+      "html_url": "https://github.com/FreakStudioCN/blockless-hardware-opportunity-validation",
+      "description": "将一句中文硬件创意转化为客户邮件草稿、证据型 PDF 机会分析和逐阶段验证任务包。",
+      "fork": false,
+      "pushed_at": "2026-10-18T17:53:23Z",
+      "language": "Python",
+      "authored_2026_default_branch": 2,
+      "latest_authored": [
+        {
+          "sha": "672780f24807cbede7af924a1f9524bf5368c804",
+          "date": "2026-09-06T07:44:00Z",
+          "subject": "feat: enforce research and delivery gates"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/blockless-pcb-studio",
+      "html_url": "https://github.com/FreakStudioCN/blockless-pcb-studio",
+      "description": "Modular PCB backplane planning, interactive previews, and an optional KiCad autorouting workflow.",
+      "fork": false,
+      "pushed_at": "2026-09-17T10:40:22Z",
+      "language": "TypeScript",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/BOM-SelfPurch_Parts_List_Proc-Toolkit",
+      "html_url": "https://github.com/FreakStudioCN/BOM-SelfPurch_Parts_List_Proc-Toolkit",
+      "description": "适配小型电子工作室小批量生产场景的工具集，包含 5 个 Python 脚本，可实现 BOM 文件的自采 / 非自采器件分类、ModAcc 配件清单模板生成、元器件关键词搜索等功能，替代手动 BOM 管理操作，解决整理低效、易出错的问题，助力工作室快速生成采购清单、追溯元器件信息。",
+      "fork": false,
+      "pushed_at": "2026-06-04T18:14:00Z",
+      "language": "Python",
+      "authored_2026_default_branch": 3,
+      "latest_authored": [
+        {
+          "sha": "a90c122c3e63e5ab1c982268642e3001bf71d9da",
+          "date": "2026-06-04T18:13:55Z",
+          "subject": "fix:修正 re.sub flags 参数及 openpyxl 字体加粗问题"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/browser-micropython-skills",
+      "html_url": "https://github.com/FreakStudioCN/browser-micropython-skills",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-07-21T08:06:50Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/claude-buddy-plugin",
+      "html_url": "https://github.com/FreakStudioCN/claude-buddy-plugin",
+      "description": "Claude Code hook plugin for the Claude Buddy desktop-pet hardware — visualize tool calls over BLE. (marketplace: claude-buddy / plugin: claude-buddy-bridge)",
+      "fork": false,
+      "pushed_at": "2026-06-16T21:31:02Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/danke_ai",
+      "html_url": "https://github.com/FreakStudioCN/danke_ai",
+      "description": "蛋壳（Danke）是运行在 Waveshare ESP32-S3-Touch-LCD-2（MicroPython v1.25 + LVGL 9.3）上的 AI 语音电子宠物，集成讯飞 ASR/TTS 和 DeepSeek LLM，支持连续多轮对话；GUI   展示透明背景小鸡角色（ARGB8888，160×160，10帧动画），由 gen_assets.py 在 PC 端用 Pillow 生成；所有库文件编译为 .mpy 以减少内存占用和加载时间。",
+      "fork": false,
+      "pushed_at": "2026-05-15T07:17:05Z",
+      "language": "Python",
+      "authored_2026_default_branch": 6,
+      "latest_authored": [
+        {
+          "sha": "31fdd4401b3a455c2153be07215abbdc9e4662d7",
+          "date": "2026-05-15T07:16:59Z",
+          "subject": "添加了 火山引擎TTS模型支持"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/elegance-devkit-v1",
+      "html_url": "https://github.com/FreakStudioCN/elegance-devkit-v1",
+      "description": "风雅一号板：专为MicroPython相关教学打造",
+      "fork": false,
+      "pushed_at": "2026-03-29T10:07:49Z",
+      "language": null,
+      "authored_2026_default_branch": 4,
+      "latest_authored": [
+        {
+          "sha": "889f3e407afef6ea9cffe41f1bdf34d42239d453",
+          "date": "2026-03-29T10:07:49Z",
+          "subject": "Update  README"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/elegance-devkit-v1_DemoCode",
+      "html_url": "https://github.com/FreakStudioCN/elegance-devkit-v1_DemoCode",
+      "description": "风雅一号开发板教学例程",
+      "fork": false,
+      "pushed_at": "2025-12-28T06:51:29Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/GraftDeploy-Touch",
+      "html_url": "https://github.com/FreakStudioCN/GraftDeploy-Touch",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-01-21T10:11:58Z",
+      "language": "Python",
+      "authored_2026_default_branch": 3,
+      "latest_authored": [
+        {
+          "sha": "2e5f60cea332831a287581f78dcda1446de1d903",
+          "date": "2026-01-21T10:11:54Z",
+          "subject": "None"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/GraftPort_MicroPython_Labs",
+      "html_url": "https://github.com/FreakStudioCN/GraftPort_MicroPython_Labs",
+      "description": "基于GraftPort开发板的教学例程开发文档",
+      "fork": false,
+      "pushed_at": "2025-11-27T03:48:34Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/graftrove-sensor-tester",
+      "html_url": "https://github.com/FreakStudioCN/graftrove-sensor-tester",
+      "description": "Graftrove多接口传感器测试器：快速测试树莓派 Pico（RP2040）上 Grove 接口的各类传感器模块，并通过 SSD1306 I2C 接口 OLED 屏幕（128x64）直观展示测试结果",
+      "fork": false,
+      "pushed_at": "2025-12-25T15:24:10Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/GraftSense-Drivers-MicroPython",
+      "html_url": "https://github.com/FreakStudioCN/GraftSense-Drivers-MicroPython",
+      "description": "GraftSense模块MicroPython驱动程序",
+      "fork": false,
+      "pushed_at": "2026-10-21T04:09:55Z",
+      "language": "Python",
+      "authored_2026_default_branch": 24,
+      "latest_authored": [
+        {
+          "sha": "a34bed7a4426a64841e5a7019bc9c8919938837b",
+          "date": "2026-10-21T04:09:55Z",
+          "subject": "Merge pull request #119: experimental async drivers with validation labels"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/GraftSense-Hardware",
+      "html_url": "https://github.com/FreakStudioCN/GraftSense-Hardware",
+      "description": "GraftSense 模块硬件 3D 模型 (STEP) / Hardware 3D models for the GraftSense module line — MIT",
+      "fork": false,
+      "pushed_at": "2026-07-08T06:50:45Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/GraftSense-Toy",
+      "html_url": "https://github.com/FreakStudioCN/GraftSense-Toy",
+      "description": "专为科技爱好者与普通用户打造的创意硬件伴手礼合集，每一款都是兼具互动性与纪念意义的贴心选择。",
+      "fork": false,
+      "pushed_at": "2026-02-19T08:46:45Z",
+      "language": "Python",
+      "authored_2026_default_branch": 2,
+      "latest_authored": [
+        {
+          "sha": "a3c338fa1fd2947c2108d159fd7402c447ca83cb",
+          "date": "2026-02-19T08:46:37Z",
+          "subject": "更新文件夹结构"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/lvgl_micropython",
+      "html_url": "https://github.com/FreakStudioCN/lvgl_micropython",
+      "description": "LVGL module for MicroPython",
+      "fork": true,
+      "pushed_at": "2026-06-23T06:03:13Z",
+      "language": "Python",
+      "authored_2026_default_branch": 3,
+      "latest_authored": [
+        {
+          "sha": "f4d28e366ffbf88a4046d357a0842f17541ce149",
+          "date": "2026-06-23T06:03:11Z",
+          "subject": "fix: remove const() from class-level _INVON/_INVOFF"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/micropython-embedded",
+      "html_url": "https://github.com/FreakStudioCN/micropython-embedded",
+      "description": "MicroPython 的 middleware 中间件层（集成显示、输入、网络、传感器处理等功能框架）与特定MCU相关的内核/外设操作库。",
+      "fork": false,
+      "pushed_at": "2026-08-18T08:54:39Z",
+      "language": "Python",
+      "authored_2026_default_branch": 16,
+      "latest_authored": [
+        {
+          "sha": "2070f8641080842251b4f37b2df5d411c550a1c1",
+          "date": "2026-05-16T09:20:21Z",
+          "subject": "debug:middleware\\network\\volcengine_tts_v1_ws_driver"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/MicroPython_Claude_Assistant_Public",
+      "html_url": "https://github.com/FreakStudioCN/MicroPython_Claude_Assistant_Public",
+      "description": "将 Claude Code 的工具执行状态实时可视化为 ESP32 桌宠设备——通过 BLE 推送状态，转化为灯光闪烁、语音播报、屏幕动画，让代码执行过程触手可及。",
+      "fork": false,
+      "pushed_at": "2026-07-08T08:45:08Z",
+      "language": "HTML",
+      "authored_2026_default_branch": 10,
+      "latest_authored": [
+        {
+          "sha": "b3f879f36a54022b9e279da83fd4522e642bf80b",
+          "date": "2026-07-08T08:21:19Z",
+          "subject": "v1.1.0: 新增 WizFi360 WiFi 版（第四硬件形态）"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/MicroPython_Skills",
+      "html_url": "https://github.com/FreakStudioCN/MicroPython_Skills",
+      "description": "GraftSense MicroPython 驱动开发规范化 Skill 集合，基于 GraftSense-Drivers-MicroPython 仓库的完整编写规范（22章、2200+ 行）构建。",
+      "fork": false,
+      "pushed_at": "2026-10-09T03:53:06Z",
+      "language": "Python",
+      "authored_2026_default_branch": 159,
+      "latest_authored": [
+        {
+          "sha": "bc2feb064113b97ccfdee1211e10dfa608101e20",
+          "date": "2026-10-08T14:29:48Z",
+          "subject": "Fix async conversion checks and regression guidance"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/MicroPython_Skills_EN",
+      "html_url": "https://github.com/FreakStudioCN/MicroPython_Skills_EN",
+      "description": "claude skills for micropython",
+      "fork": false,
+      "pushed_at": "2026-08-09T12:36:03Z",
+      "language": "Python",
+      "authored_2026_default_branch": 21,
+      "latest_authored": [
+        {
+          "sha": "abf9b15c6eeaf91d74c5419bd83e6f9ddd233a91",
+          "date": "2026-08-06T08:20:43Z",
+          "subject": "[auto-sync] 2026-08-06 08:23 UTC — mirror source repo"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/MicroPythonOS",
+      "html_url": "https://github.com/FreakStudioCN/MicroPythonOS",
+      "description": "A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.",
+      "fork": true,
+      "pushed_at": "2026-05-11T13:49:02Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/micropythonos-ai-app-builder",
+      "html_url": "https://github.com/FreakStudioCN/micropythonos-ai-app-builder",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-10-14T19:18:44Z",
+      "language": "Python",
+      "authored_2026_default_branch": 1,
+      "latest_authored": [
+        {
+          "sha": "79f325400221065370ef82d55006d22705e00a89",
+          "date": "2026-08-16T11:14:17Z",
+          "subject": "docs(architecture): document cross-device MPOS capability integration"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/mouse_health_detect",
+      "html_url": "https://github.com/FreakStudioCN/mouse_health_detect",
+      "description": "豚宝保-豚鼠健康检测装置",
+      "fork": false,
+      "pushed_at": "2026-09-17T10:30:50Z",
+      "language": "HTML",
+      "authored_2026_default_branch": 8,
+      "latest_authored": [
+        {
+          "sha": "bb2ce09b4ea1dcc5fe0ef2daf94477b7c0a281cc",
+          "date": "2026-08-06T06:47:32Z",
+          "subject": "update presentation.html"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/mpy-hardware-extension",
+      "html_url": "https://github.com/FreakStudioCN/mpy-hardware-extension",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-10-19T11:38:45Z",
+      "language": "TypeScript",
+      "authored_2026_default_branch": 4,
+      "latest_authored": [
+        {
+          "sha": "6de9dbeeab85707efee39019fc517b52c6f0021e",
+          "date": "2026-06-26T18:07:58Z",
+          "subject": "Merge branch 'main' of https://github.com/FreakStudioCN/mpy-hardware-extension"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/NeoPixDot",
+      "html_url": "https://github.com/FreakStudioCN/NeoPixDot",
+      "description": "NeoPixDot 光链像素是 RP2040 主控的级联式 WS2812 像素模拟模块，解决 WS2812 长距 / 大尺寸传输不稳问题。",
+      "fork": false,
+      "pushed_at": "2026-02-11T07:22:49Z",
+      "language": "Python",
+      "authored_2026_default_branch": 9,
+      "latest_authored": [
+        {
+          "sha": "5071ba8c24e4d5beaa26d6813463ffceadb75fa2",
+          "date": "2026-02-11T07:20:46Z",
+          "subject": "Update 3DShell_3DShell_PCB_B.stl"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/NeopixelMatrixTool",
+      "html_url": "https://github.com/FreakStudioCN/NeopixelMatrixTool",
+      "description": "WS2812视频图片文字取模转码绘制显示工具",
+      "fork": false,
+      "pushed_at": "2025-12-15T11:21:58Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/niulai_robot",
+      "html_url": "https://github.com/FreakStudioCN/niulai_robot",
+      "description": "牛来机器人",
+      "fork": false,
+      "pushed_at": "2026-10-14T09:01:42Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/pages",
+      "html_url": "https://github.com/FreakStudioCN/pages",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-03-08T05:57:19Z",
+      "language": "JavaScript",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/PixelSky",
+      "html_url": "https://github.com/FreakStudioCN/PixelSky",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-09-04T10:44:22Z",
+      "language": "TypeScript",
+      "authored_2026_default_branch": 1,
+      "latest_authored": [
+        {
+          "sha": "3e6165299afbef520d94cd262a77b549465acbf4",
+          "date": "2026-09-01T06:19:14Z",
+          "subject": "Update install-helper.ps1"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/PottedBaby",
+      "html_url": "https://github.com/FreakStudioCN/PottedBaby",
+      "description": "”盆栽宝宝“基于 MicroPython 的智能盆栽伙伴，支持土壤温湿度监测、状态表情、语音反馈及 ASR、LLM、TTS 智能对话",
+      "fork": false,
+      "pushed_at": "2026-09-01T03:59:40Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/Small-robotic-arm-unmanned-vehicle-chassis-",
+      "html_url": "https://github.com/FreakStudioCN/Small-robotic-arm-unmanned-vehicle-chassis-",
+      "description": "小机械臂无人车底盘的I2C驱动板电机控制",
+      "fork": false,
+      "pushed_at": "2026-10-14T08:24:32Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "FreakStudioCN/startup-opportunity-validation",
+      "html_url": "https://github.com/FreakStudioCN/startup-opportunity-validation",
+      "description": "创业机会验证skill",
+      "fork": false,
+      "pushed_at": "2026-09-06T14:20:53Z",
+      "language": "Python",
+      "authored_2026_default_branch": 2,
+      "latest_authored": [
+        {
+          "sha": "ad319233f771aa0c36f70dde78e05d7576c25476",
+          "date": "2026-09-06T14:17:08Z",
+          "subject": "Require fresh corpus for new opportunity evaluation"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/upypi",
+      "html_url": "https://github.com/FreakStudioCN/upypi",
+      "description": "micropython index",
+      "fork": false,
+      "pushed_at": "2026-07-07T09:14:43Z",
+      "language": "HTML",
+      "authored_2026_default_branch": 1,
+      "latest_authored": [
+        {
+          "sha": "e6e01a10765d03f6ca357ed8b91037b1e56a66de",
+          "date": "2026-03-09T04:11:43Z",
+          "subject": "release 0.3.3（add docs）  (#11)"
+        }
+      ]
+    },
+    {
+      "full_name": "FreakStudioCN/uPyPI_Test_Package",
+      "html_url": "https://github.com/FreakStudioCN/uPyPI_Test_Package",
+      "description": "uPyPI测试用包",
+      "fork": false,
+      "pushed_at": "2026-03-23T03:32:51Z",
+      "language": "Python",
+      "authored_2026_default_branch": 2,
+      "latest_authored": [
+        {
+          "sha": "e2331bd83510b9a2a8abfdbee65cd328874a0386",
+          "date": "2026-03-23T03:32:33Z",
+          "subject": "Update package.json"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/Animal_behavior_analysis",
+      "html_url": "https://github.com/leezisheng/Animal_behavior_analysis",
+      "description": "For animal behavior analysis, Yolov4 was used for target detection, DeepSORT was used for target tracking, and motion track tracking and motion information extraction were carried out for experimental mice",
+      "fork": false,
+      "pushed_at": "2022-07-30T09:16:17Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/awesome-micropython",
+      "html_url": "https://github.com/leezisheng/awesome-micropython",
+      "description": "A curated list of awesome MicroPython libraries, frameworks, software and resources.",
+      "fork": true,
+      "pushed_at": "2026-02-11T04:18:57Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/BIPES",
+      "html_url": "https://github.com/leezisheng/BIPES",
+      "description": "BIPES: Block based Integrated Platform for Embedded Systems allows text and block based programming for several types of embedded systems and Internet of Things modules using MicroPython, CircuitPython, Python or Snek. You can connect, program, debug and monitor several types of boards using network, USB or Bluetooth. No software install needed!",
+      "fork": true,
+      "pushed_at": "2026-01-18T15:00:16Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/blockless-api-main",
+      "html_url": "https://github.com/leezisheng/blockless-api-main",
+      "description": null,
+      "fork": false,
+      "pushed_at": "2026-07-24T17:04:40Z",
+      "language": "Python",
+      "authored_2026_default_branch": 5,
+      "latest_authored": [
+        {
+          "sha": "9e7f18b5e4754d8a67c1202aba7affe2e927be0b",
+          "date": "2026-07-11T15:27:48Z",
+          "subject": "修改PPT名字"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/coop",
+      "html_url": "https://github.com/leezisheng/coop",
+      "description": "项目详细讲解如何在纯C语言中模仿面向对象编程（OOP） 的四大特性：封装、继承、多态、抽象，该文件夹是示例的一个循迹小车的“伪实现”项目。",
+      "fork": false,
+      "pushed_at": "2025-05-08T16:26:24Z",
+      "language": "C",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Doc",
+      "html_url": "https://github.com/leezisheng/Doc",
+      "description": "此文件夹主要包括嵌入式开发规范和相关技术书籍、资料分享。",
+      "fork": false,
+      "pushed_at": "2025-08-20T16:19:59Z",
+      "language": "C",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Domino-Series-Expansion-Board",
+      "html_url": "https://github.com/leezisheng/Domino-Series-Expansion-Board",
+      "description": "The Domino Series Expansion Board is designed for small-sized development boards. This repository contains relevant software and hardware materials for the Domino Series Expansion Board.",
+      "fork": false,
+      "pushed_at": "2025-07-24T05:19:16Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/ESP32-EDU-BOARD-V0.1",
+      "html_url": "https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1",
+      "description": "ESP32-EDU-BOARD开发板V0.1相关例程和硬件资料",
+      "fork": false,
+      "pushed_at": "2024-01-03T09:38:53Z",
+      "language": "C++",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/face_classes",
+      "html_url": "https://github.com/leezisheng/face_classes",
+      "description": "face detection and emotion classes",
+      "fork": false,
+      "pushed_at": "2022-02-09T09:52:07Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Farm-environment-monitoring-device---stand-alone-version",
+      "html_url": "https://github.com/leezisheng/Farm-environment-monitoring-device---stand-alone-version",
+      "description": "Nucleo-f103rb development board is used as the main controller to monitor hydrogen sulfide, ammonia, carbon dioxide, carbon monoxide concentrations, temperature, humidity and equipment voltage in pig farms through gas sensors, temperature and humidity sensors and internal voltage sensors. The ESP826601S module uses MQTT protocol to connect ali Cloud Iot platform to display and process data in real time.",
+      "fork": false,
+      "pushed_at": "2022-08-23T16:57:31Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/freakstudio-arduino-libraries",
+      "html_url": "https://github.com/leezisheng/freakstudio-arduino-libraries",
+      "description": "FreakStudio嵌入式工作室自定义第三方Arduino库",
+      "fork": false,
+      "pushed_at": "2025-02-03T12:26:44Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/freakstudio-micropython-libraries",
+      "html_url": "https://github.com/leezisheng/freakstudio-micropython-libraries",
+      "description": "FreakStudio嵌入式工作室自定义第三方MicroPython库",
+      "fork": false,
+      "pushed_at": "2025-12-14T14:01:21Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Gas-sensor-voltage-concentration-curve-fitting",
+      "html_url": "https://github.com/leezisheng/Gas-sensor-voltage-concentration-curve-fitting",
+      "description": "The regression method in machine learning is used to fit the relationship curve of temperature, voltage and gas concentration of CO2 sensor",
+      "fork": false,
+      "pushed_at": "2022-10-14T19:36:56Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/GraftPort_MicroPython_Labs",
+      "html_url": "https://github.com/leezisheng/GraftPort_MicroPython_Labs",
+      "description": "基于GraftPort开发板的教学例程开发文档",
+      "fork": true,
+      "pushed_at": "2025-11-27T03:48:34Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/GraftSense-Drivers-MicroPython",
+      "html_url": "https://github.com/leezisheng/GraftSense-Drivers-MicroPython",
+      "description": "GraftSense模块MicroPython驱动程序",
+      "fork": true,
+      "pushed_at": "2026-10-08T04:14:36Z",
+      "language": "Python",
+      "authored_2026_default_branch": 30,
+      "latest_authored": [
+        {
+          "sha": "59d748fb2529b73c302d73bb5fcd1f358b4151ff",
+          "date": "2026-10-08T04:14:36Z",
+          "subject": "Merge branch 'FreakStudioCN:main' into main"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/leezisheng",
+      "html_url": "https://github.com/leezisheng/leezisheng",
+      "description": "leezisheng的个人主页",
+      "fork": false,
+      "pushed_at": "2025-01-24T04:16:58Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/library-registry",
+      "html_url": "https://github.com/leezisheng/library-registry",
+      "description": "The Arduino Library Manager Registry",
+      "fork": true,
+      "pushed_at": "2025-03-12T03:36:50Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/MCU_Project",
+      "html_url": "https://github.com/leezisheng/MCU_Project",
+      "description": "Using the STM32F411-Discovery suite, the voltage signals of the EMG sensor were collected, and the cyclic neural network algorithm was used to classify and control the motion of the manipulator",
+      "fork": false,
+      "pushed_at": "2023-04-09T08:09:25Z",
+      "language": "C",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/micropython-embedded",
+      "html_url": "https://github.com/leezisheng/micropython-embedded",
+      "description": "MicroPython 的 middleware 中间件层（集成显示、输入、网络、传感器处理等功能框架）与特定MCU相关的内核/外设操作库。",
+      "fork": true,
+      "pushed_at": "2026-03-07T03:51:59Z",
+      "language": null,
+      "authored_2026_default_branch": 5,
+      "latest_authored": [
+        {
+          "sha": "b4f5530ae84dd607b7a81a60d6b41586ad955fc4",
+          "date": "2026-03-07T03:51:49Z",
+          "subject": "docs: 修改文档"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/MicroPythonOS",
+      "html_url": "https://github.com/leezisheng/MicroPythonOS",
+      "description": "A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.",
+      "fork": true,
+      "pushed_at": "2026-08-18T12:49:44Z",
+      "language": "Python",
+      "authored_2026_default_branch": 6,
+      "latest_authored": [
+        {
+          "sha": "f21534d7908b08feec1d77466dcf4aa3a73eb1cb",
+          "date": "2026-08-18T11:06:19Z",
+          "subject": "Clarify K10 launcher fallback comment"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/micropythonos-ai-app-builder",
+      "html_url": "https://github.com/leezisheng/micropythonos-ai-app-builder",
+      "description": null,
+      "fork": true,
+      "pushed_at": "2026-08-26T13:15:28Z",
+      "language": "Python",
+      "authored_2026_default_branch": 6,
+      "latest_authored": [
+        {
+          "sha": "cb1ec4e84de0f97b01b73b5d65347ab069857bc5",
+          "date": "2026-08-26T12:55:11Z",
+          "subject": "docs: update visual asset hardening handoff"
+        }
+      ]
+    },
+    {
+      "full_name": "leezisheng/NDIR_CO2",
+      "html_url": "https://github.com/leezisheng/NDIR_CO2",
+      "description": "NDIR carbon dioxide sensor (0~ 5000ppm)",
+      "fork": false,
+      "pushed_at": "2022-10-14T19:55:48Z",
+      "language": "C",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Non_contact_object_size_measurement",
+      "html_url": "https://github.com/leezisheng/Non_contact_object_size_measurement",
+      "description": "2022 Shanxi Electronic Design Competition",
+      "fork": false,
+      "pushed_at": "2022-11-12T05:07:53Z",
+      "language": "G-code",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/pig_healthy_pytorch",
+      "html_url": "https://github.com/leezisheng/pig_healthy_pytorch",
+      "description": "The project tracks the movement of the target object (pigs, experimental mice, etc.), so as to count the movement distance, average movement speed and rest time of the target object (rest: Refers to the situation where the movement distance is less than 4 pixels), the three feature values are taken as the input of the anomaly detection model to judge the health status of the target object, and the movement track of the target object can be recorded and played back.",
+      "fork": false,
+      "pushed_at": "2022-07-16T17:33:56Z",
+      "language": null,
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Python-OOP-Demo",
+      "html_url": "https://github.com/leezisheng/Python-OOP-Demo",
+      "description": "一文速通Python面向对象编程-文档示例程序",
+      "fork": false,
+      "pushed_at": "2024-05-10T07:25:16Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/SEMG_Assistant",
+      "html_url": "https://github.com/leezisheng/SEMG_Assistant",
+      "description": "The sEMG acquisition device is equipped with the upper computer software and written in Python language to complete the data receiving of USB virtual serial port, the calculation of the time-frequency domain characteristics of the signal, the real-time display of the signal and the action judgment of the mechanical arm",
+      "fork": false,
+      "pushed_at": "2023-02-13T21:06:44Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/SerialServo",
+      "html_url": "https://github.com/leezisheng/SerialServo",
+      "description": "Freak嵌入式工作室第三方Arduino串口舵机库，支持幻尔科技全系列串口舵机。",
+      "fork": false,
+      "pushed_at": "2025-03-12T03:16:58Z",
+      "language": "C++",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Sound-source-location",
+      "html_url": "https://github.com/leezisheng/Sound-source-location",
+      "description": "This was done using the K210 development board and microphone array",
+      "fork": false,
+      "pushed_at": "2022-11-12T06:11:13Z",
+      "language": "Python",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/Track_Car",
+      "html_url": "https://github.com/leezisheng/Track_Car",
+      "description": "Laboratory Teaching Suite",
+      "fork": false,
+      "pushed_at": "2022-10-16T14:54:32Z",
+      "language": "C",
+      "authored_2026_default_branch": 0,
+      "latest_authored": []
+    },
+    {
+      "full_name": "leezisheng/upypi",
+      "html_url": "https://github.com/leezisheng/upypi",
+      "description": "micropython index",
+      "fork": true,
+      "pushed_at": "2026-03-20T04:20:53Z",
+      "language": "HTML",
+      "authored_2026_default_branch": 7,
+      "latest_authored": [
+        {
+          "sha": "6892195750aaf5115ce75a10f50b5d62f7547b3c",
+          "date": "2026-03-20T04:20:37Z",
+          "subject": "docs(G:\\upypi): 更新了README中英文部分使用说明链接和英文介绍图片"
+        }
+      ]
+    }
+  ]
+}
